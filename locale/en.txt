@@ -1,0 +1,144 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_82F67D1F_C7BC_DEFF_41C9_9356EE4A73FC.source = https://www.facebook.com/VisitLuce
+LinkBehaviour_85127D2E_C7BD_BEC1_41D4_B162FACDEA57.source = https://www.facebook.com/VisitLuce
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d121389.45830537438!2d14.642656266221966!3d46.35676453410067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476551f5717b0d6d%3A0xfa1f9e08f18628d!2zT2LEjWluYSBMdcSNZSwgMzMzNCBMdcSNZQ!5e1!3m2!1ssl!2ssi!4v1785230716687!5m2!1ssl!2ssi
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d121389.45830537438!2d14.642656266221966!3d46.35676453410067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476551f5717b0d6d%3A0xfa1f9e08f18628d!2zT2LEjWluYSBMdcSNZSwgMzMzNCBMdcSNZQ!5e1!3m2!1ssl!2ssi!4v1785230716687!5m2!1ssl!2ssi
+LinkBehaviour_409488FD_5924_FBE8_4180_0303E8233956.source = https://www.obcina-tabor.si/
+LinkBehaviour_403F967A_591C_76E8_41D2_5EEE655E0ED7.source = https://www.obcina-tabor.si/
+
+## Media
+
+### Audio
+audiores_3487CEE1_4CA4_EA4D_41A7_1582F583CBE6.url = media/audio_3B1734DA_4CA7_5E7F_41C8_84ACC80375E5_en.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_66E7161D_7EB6_C921_41CC_C7F15BA60179.label = BAR-IGLA-1 copy
+panorama_66E712FD_7EB6_CEE1_41DA_83C6BB5723AA.label = BAR-IGLA-2 copy
+panorama_66E6C12D_7EB6_CB61_41DD_8518713136A4.label = BAR-IGLA-3 copy
+panorama_66E77EA5_7EB7_5961_41D8_CE8A98EB6DE3.label = BAR-IGLA-4 copy
+panorama_66E7D35B_7EB7_CF21_41C6_8B3F2BC35B3B.label = DELAVNICA-SLANGER-1 copy
+panorama_66E712C0_7EB7_C91F_41D0_A98413D33C10.label = DELAVNICA-SLANGER-2 copy
+panorama_66E7329B_7EB7_C921_41D8_9483CFD194EF.label = DELAVNICA-SLANGER-3 copy
+panorama_66E71FF8_7EB7_56EF_41D8_CD69C9EA3C7E.label = DOMACIJA-KOKLEJ-1 copy
+panorama_66E68F29_7EB7_7761_41DF_3F7BA508F2C0.label = DOMACIJA-KOKLEJ-2 copy
+panorama_66E751DB_7EB7_4B21_41B6_F721093B3304.label = DOMACIJA-KOKLEJ-3 copy
+panorama_66E7D2F8_7EB7_CEEF_41C4_C788C0D7DE3F.label = DOMACIJA-KOKLEJ-4 copy
+panorama_66E76138_7EB7_4B6F_41D6_65EC66CBBF96.label = HISA-RADUHA-1 copy
+panorama_66E6CA0B_7EB6_B921_41C0_C18755DAD7A6.label = HISA-RADUHA-11 copy
+panorama_66E6AAF5_7EB5_5EE1_41DF_3189EDE04DFF.label = HISA-RADUHA-12 copy
+panorama_66E6B8C4_7EB5_7927_419C_F4B4E0152280.label = HISA-RADUHA-13 copy
+panorama_66E55680_7EB5_491F_41DF_3C69F5BCEAC8.label = HISA-RADUHA-14 copy
+panorama_66E7BF6C_7EB7_77E7_41D9_DC9A668BECD5.label = HISA-RADUHA-2 copy
+panorama_66E750FB_7EB7_4AE1_41C9_7FAECC91BFC7.label = HISA-RADUHA-3 copy
+panorama_66E69FC8_7EB6_B72F_41A4_A04A6DD89248.label = HISA-RADUHA-5 copy
+panorama_66E6AD97_7EB6_DB21_41D2_EB05237779EA.label = HISA-RADUHA-6 copy
+panorama_66E6AB94_7EB6_FF27_41B4_C8B56F926EBE.label = HISA-RADUHA-7 copy
+panorama_66E698EE_7EB6_DAE3_41D0_B90C1360CA64.label = HISA-RADUHA-8 copy
+panorama_67236C76_7EB5_59E3_41D7_9AEA5A30EA1C.label = HISA-RADUHA-9 copy
+panorama_66E5966C_7EB5_C9E7_41B7_AA17775D3BA9.label = JUVANOVA-HISA-1 copy
+panorama_66E59624_7EB5_C967_41C2_34D007EF9854.label = JUVANOVA-HISA-2 copy
+panorama_66E593E4_7EB5_CEE7_41CB_DD706EEACE99.label = JUVANOVA-HISA-3 copy
+panorama_66E553BE_7EAA_CF63_414E_F1023B47DD16.label = LUCE-CENTER-1 copy
+panorama_66E527D2_7EB5_B723_41D3_DC95DE3E1BAB.label = LUCE-CENTER-10 copy
+panorama_66E50246_7EB5_4923_419E_901ECCD79F66.label = LUCE-CENTER-2 copy
+panorama_66E5D101_7EB5_4B21_41D4_D23B32412E68.label = LUCE-CENTER-3 copy
+panorama_66E50FAB_7EB5_5761_41D6_A9DCFC826310.label = LUCE-CENTER-4 copy
+panorama_66E51DAC_7EB5_BB67_41DE_0F40FF145AA5.label = LUCE-CENTER-6 copy
+panorama_66E5EC9B_7EB5_D921_41CB_D2ACD1C5C4EC.label = LUCE-CENTER-7 copy
+panorama_66E519D5_7EB5_FB21_41D0_431E8F65503A.label = LUCE-CENTER-8 copy
+panorama_66E5C85A_7EB5_D923_41D9_34210C7E2556.label = LUCE-CENTER-9 copy
+panorama_66E56821_7EB5_5961_41CB_224D514F8EC5.label = LUCE-CERKEV-1 copy
+panorama_66E50658_7EB5_492F_41A1_9743A95CE616.label = LUCE-CERKEV-2 copy
+panorama_66E524FE_7EB5_4AE3_41CD_D91B5AB6BF23.label = LUCE-CERKEV-3 copy
+panorama_66E6E5E8_7EB6_CAEF_41DA_C6A938C07732.label = LUCE-CERKEV-4 copy
+panorama_66D9AF61_7EB5_B7E1_41C8_E2A3FB1D6277.label = LUCE-CERKEV-PODVOLOVLJEK-1 copy
+panorama_66DAD955_7EAA_BB21_41DA_F59A09E3F3FE.label = LUCE-CERKEV-PODVOLOVLJEK-2 copy
+panorama_66E5978D_7EAA_D721_41A1_FFDC17979B0A.label = LUCE-CERKEV-PODVOLOVLJEK-3 copy
+panorama_66E51601_7EAA_C921_41B1_D187B899E61F.label = LUCE-CERKEV-PODVOLOVLJEK-4 copy
+panorama_66DB2DE1_7EAB_BAE1_41DB_22549B1A520A.label = LUCE-SPORTNA-DVORANA-1 copy
+panorama_66E4DC9D_7EAB_5921_41D4_D3F1A008E887.label = LUCE-SPORTNA-DVORANA-2 copy
+panorama_66DB3BDF_7EAB_7F21_41DA_C4D4D1EB533C.label = LUCE-SPORTNA-DVORANA-3 copy
+panorama_66E4EB21_7EAB_5F61_41B1_B899DA055F19.label = LUCE-SPORTNA-DVORANA-4 copy
+panorama_67641421_7EAA_C961_41DD_B26ECE6DDBDF.label = PANORAMA-LUCE-4
+panorama_6512C434_7EDB_4967_41D8_C9B36F17B39C.label = PANORAMA-LUCE-CENTER
+panorama_662D1AF4_7EAA_FEE7_41D8_8BD0E792D2BF.label = PANORAMA-LUCE-CENTER-3
+panorama_64CCFDC8_7EDB_5B2F_41D9_976C518CDB4E.label = PANORAMA-LUCE-CERKEV
+panorama_662AD166_7EAD_4BE3_41D0_0B4E6555ED31.label = PANORAMA-LUCE-IGLA
+panorama_662D00A8_7EAA_C96F_41DD_D6FBF1715DCC.label = PANORAMA-LUCE-KOKLEJ
+panorama_677F9875_7EDA_F9E1_41C0_C7143D7327CB.label = PANORAMA-LUCE-PODVOLOVLJEK
+panorama_67258316_7EDA_CF23_41CA_1E57F7510F43.label = PANORAMA-LUCE-PODVOLOVLJEK-CERKEV
+panorama_6759C954_7EDA_DB20_416B_DB25072DA264.label = PANORAMA-LUCE-PODVOLOVLJEK1
+panorama_67554A33_7EDA_B961_41B5_FBE042F39CD7.label = PANORAMA-LUCE-PODVOLOVLJEK2
+panorama_662A2487_7EAD_4921_41C7_133632904323.label = PANORAMA-LUCE-SAVINJA-1
+panorama_662A0277_7EAD_49E1_41DF_18FB1280BB71.label = PANORAMA-LUCE-SAVINJA-2
+panorama_67525A56_7EDD_5923_41C1_02B42F850075.label = PANORAMA-LUCE2
+panorama_67529A4A_7EDD_7923_41DD_D71286BC3BA7.label = PANORAMA-LUCE3
+panorama_8D51D19C_ADF2_4560_41DC_E27A29CF03AE.label = Panorama-Ravne-1
+panorama_89C17F25_ADF2_7DA3_41D0_59C7E32F6677.label = Panorama-Ravne-2
+panorama_8A064C7A_AD92_C3A0_41BD_8F34547B3426.label = Planina-Ravne-1 copy
+panorama_8E56C615_AD92_4F60_41D9_E9E053F74A7A.label = Planina-Ravne-3 copy
+panorama_8E591776_AD92_4DA0_41D2_B412A4353E6F.label = Planina-Ravne-4 copy
+
+## Skin
+
+### Button
+Button_16820C19_2A8A_8BC1_41BD_FE16B54AB93A_mobile.label = Cerkev Sv. Antona Puščavnika
+Button_022DBAA4_2A8B_8CC7_4183_FA0189A77CAA.label = Cerkev Sv. Antona Puščavnika
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = Cerkev Sv. Lovrenca
+Button_16F7D314_2A8B_9DC7_41B2_4815DCFDD878_mobile.label = Cerkev Sv. Lovrenca
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Delavnica Šlanger
+Button_1785D3D5_2A8B_BC41_41C1_2DDEBE1DCB39_mobile.label = Delavnica Šlanger
+Button_17B480E5_2A8B_BC41_41A1_4FFD7C8D35C0_mobile.label = Domačija Koklej
+Button_7DBC8382_7065_343F_4183_17B44518DB40.label = Domačija Koklej
+Button_169921C3_2A8B_9C41_41B3_39AD49FB3A90_mobile.label = Hiša Raduha
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = Hiša Raduha
+Button_17ADD002_2A8B_BBC3_41A5_4ACD8BA58F52_mobile.label = Igla in soteska Savinje
+Button_02654215_2A99_9FC1_41A7_3F31AF16C978.label = Igla in soteska Savinje
+Button_178F5EFF_2A8A_8441_41C2_4E08FD77B501_mobile.label = Juvanova hiša
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Juvanova hiša
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = LOREM IPSUM
+Button_062AF830_1140_E215_418D_D2FC11B12C47_mobile.label = LOREM IPSUM
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_023FC90B_2A8B_8DC1_41C4_82C1AD2E5396.label = Planina Ravne
+Button_16A89948_2A8A_8C4F_41BC_C376DBB6E1DB_mobile.label = Planina Ravne
+Button_0243402D_2A8B_9BC1_41C0_142E74C42539.label = Reka Savinja
+Button_17A64F3C_2A8B_85C7_41A1_A8859F2A1796_mobile.label = Reka Savinja
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = Športni center Luče
+Button_17BBC345_2A8B_BC41_41BD_5B91D8E2853E_mobile.label = Športni center Luče
+
+### Image
+Image_0303381E_2A86_8BC3_41A4_0985F5B7E1B8.url = skin/Image_0303381E_2A86_8BC3_41A4_0985F5B7E1B8_en.png
+Image_04F9600D_2A9A_9BC1_4170_762B3487177A.url = skin/Image_04F9600D_2A9A_9BC1_4170_762B3487177A_en.png
+Image_04FB500D_2A9A_9BC1_41B4_CDEEBCE6CCDE.url = skin/Image_04FB500D_2A9A_9BC1_41B4_CDEEBCE6CCDE_en.png
+Image_04FC800C_2A9A_9BC7_41BA_856BC8261511.url = skin/Image_04FC800C_2A9A_9BC7_41BA_856BC8261511_en.png
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_en.jpg
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile_en.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_en.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_en.jpg
+Image_158761A2_2A9A_9CC3_4162_94481DF0DC44.url = skin/Image_158761A2_2A9A_9CC3_4162_94481DF0DC44_en.png
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_en.png
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile_en.png
+
+### Label
+Label_04F6200E_2A9A_9BC3_41C3_6C80963A8250.text = START
+
+### Multiline Text
+HTMLText_1F95DE40_022E_7BF1_4170_16BB769D1510.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.3699999999999894vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.699999999999997vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:4.7vw;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.7200000000000006vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vw;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.7200000000000006vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vw;font-family:'Oswald';"><B><I>DOLOR SIT AME</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3299999999999994vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.33vw;font-family:'Oswald';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.42vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.54vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7799999999999997vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7799999999999997vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.27vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3299999999999994vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>DONEC FEUGIAT:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999997vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999997vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999997vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999997vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999997vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.27vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3299999999999994vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>LOREM IPSUM:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3299999999999994vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.33vw;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.269999999999992vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.27vmin;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10.269999999999992vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.27vmin;font-family:'Oswald';"><B><I>DOLOR SIT AME</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Oswald';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.229999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Oswald';"><B><I>DONEC FEUGIAT:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.3699999999999894vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;"> </SPAN><SPAN STYLE="font-size:3.61vmin;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.229999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Oswald';"><B><I>LOREM IPSUM:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.95vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:9.95vmin;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.570000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.57vmin;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.15vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.1499999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.15vmin;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.1499999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.15vmin;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.1499999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.15vmin;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Oswald Regular';"><I> </I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>OBČINA LUČE</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>https://www.luce.si/.si/</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tel.: +386 (0)3 839 35 55</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>tic@luce.si</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:11px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Oswald Regular';"><B>Powered by Webvisit360</B></SPAN><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Oswald Regular';"><I> </I></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Oswald Regular';"><I>OBČINA LUČE</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Oswald Regular';"><I>https://www.luce.si/.si/</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Oswald Regular';"><I>Tel.: +386 (0)3 839 35 55</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Oswald Regular';"><I>tic@luce.si</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:11px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Oswald Regular';"><B>Powered by Webvisit360</B></SPAN><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Oswald Regular';"><I> </I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = LUČE-360
