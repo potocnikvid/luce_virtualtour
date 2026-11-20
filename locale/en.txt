@@ -141,4 +141,4 @@ HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-ali
 ### Description
 
 ### Title
-tour.name = LUČE-360
+tour.name = Občina Luče – 360° virtualni sprehod
